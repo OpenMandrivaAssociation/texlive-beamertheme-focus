@@ -1,6 +1,6 @@
 Name:		texlive-beamertheme-focus
-Version:	62551
-Release:	2
+Version:	69742
+Release:	1
 Summary:	A minimalist presentation theme for LaTeX Beamer
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/beamertheme-focus
