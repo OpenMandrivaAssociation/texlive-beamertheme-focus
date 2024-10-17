@@ -3,7 +3,7 @@ Version:	69742
 Release:	1
 Summary:	A minimalist presentation theme for LaTeX Beamer
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/beamertheme-focus
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/beamertheme-focus
 License:	gpl3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/beamertheme-focus.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/beamertheme-focus.doc.r%{version}.tar.xz
